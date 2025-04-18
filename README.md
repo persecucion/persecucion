@@ -39,7 +39,7 @@
 | <a href="https://github.com/Junsred/Project1" target="_blank">**Project 1**</a> | <a href="https://github.com/junsred/pagination" target="_blank">**Project 2**</a> | <a href="https://github.com/Junsred/Project3" target="_blank">**Project 3**</a> | <a href="https://github.com/Junsred/Project4" target="_blank">**Project 4**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://via.placeholder.com/100' width="100px"  height='100px'> | <img align='center' width="100px" src='https://via.placeholder.com/100' height='100px'>  | <img align='center' src='https://via.placeholder.com/100' width="100px" height='100px'> | <img align='center' src='https://via.placeholder.com/100' width="100px" height='100px'> |
-| <p>Project description here.</p> <a href="https://github.com/Junsred/Project1" target="_blank">`Repository`</a> | <p>Project description here.</p> <a href="https://github.com/Junsred/Project2" target="_blank">`Repository`</a> | <p>Project description here.</p> <a href="https://github.com/Junsred/Project3" target="_blank">`Repository`</a> | <p>Project description here.</p> <a href="https://github.com/Junsred/Project4" target="_blank">`Repository`</a> |
+| <p>Project description here.</p> <a href="https://github.com/junsred/pagination" target="_blank">`Repository`</a> | <p>Project description here.</p> <a href="https://github.com/Junsred/Project2" target="_blank">`Repository`</a> | <p>Project description here.</p> <a href="https://github.com/Junsred/Project3" target="_blank">`Repository`</a> | <p>Project description here.</p> <a href="https://github.com/Junsred/Project4" target="_blank">`Repository`</a> |
 <br/>
 
 <h2 align="center">🌱 My Skills</h2>
