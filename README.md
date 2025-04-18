@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://avatars.githubusercontent.com/u/63877982?v=4' width='25%'>  
+<img align='right' src='https://cdn.discordapp.com/attachments/1125825952623116339/1362588654035402824/cropped_image.png?ex=6802f112&is=68019f92&hm=f4110d3d339eb1bb3ad366650dc9f273fc4024c6c59e3d5e0f234f9aba991983&' width='25%'>  
 
 {  
 
