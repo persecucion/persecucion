@@ -13,7 +13,7 @@
 * 👂 `My name is`: **Junsred**,
 * 👩 `Pronouns`: **He/Him**,
 * ❤️ `Locality`: **Argentina**,
-* ⚡ `I'm`: **20 years old**,
+* ⚡ `Age`: **20 years old**,
 * 🌱 `I'm currently learning`: **Rust**,
 * 💻 `Favorite lang`: **Rust & TypeScript**  
 
